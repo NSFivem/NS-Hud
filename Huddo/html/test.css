@@ -1,0 +1,33 @@
+.fa-shield-alt,
+.fa-heart {
+    color: white;
+    position: absolute;
+    font-size: 1.4vh;
+    left: 85px;
+    top: 3px;
+    display: none;
+
+}
+
+.bararmour {
+    transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+    background-color:rgb(19, 12, 12);
+    width: 10.22%;
+    position: absolute;
+    bottom: 4.0%;
+    left: 49.50%;
+    height: 20.60px;
+    top: 1040px;
+
+}
+
+.barhealth {
+    transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+    background-color:rgb(255, 0, 0);
+    width: 10.22%;
+    position: absolute;
+    bottom: 4.0%;
+    left: 40.0%;
+    height: 20.60px;
+    top: 1040px;
+}
